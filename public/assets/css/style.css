@@ -1,0 +1,268 @@
+/*****************************************************/
+/* Reset */
+/*****************************************************/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	
+}
+html,body{
+	height:100%;
+	width:100%;
+	/*overflow:hidden;*/
+}
+strong{
+	font-weight:bold;
+}
+ 
+body {
+	color: #000;
+	font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	overflow-x:hidden;
+}
+
+li{
+	line-height:28px;
+}
+
+html,body {
+    height: 100%;
+	margin: 0;
+    padding: 0;
+	width: 100%;
+    
+}
+
+
+a:focus {
+    outline: thin dotted;
+    outline: 5px auto -webkit-focus-ring-color;
+    outline-offset: -2px;
+}
+
+a:hover,a:active {
+    outline: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #000;
+    text-decoration: none;
+}
+
+a:focus {
+ 	color: #000;
+    outline: none;
+	text-decoration: none;
+    
+}
+
+h2{
+	font-size:1.875em; /*30px*/
+}
+h3{
+	color: #987f5b;
+	font-size: 1.5em;
+	font-weight: 500;
+	letter-spacing: 6px;
+	line-height: 1.5em;
+	text-transform: uppercase;	
+}
+h4{
+	font-size:1.125em; /*18px*/
+}
+h5{
+	font-size:0.93em; /*15px*/
+}
+h6{
+	font-size:0.875em; /*14px*/
+}
+
+
+.align-center {
+	clear:both;
+	float:none;
+	display:block;
+	margin:0 auto;
+	overflow:hidden;	
+	text-align:center;
+	
+}
+.padding-none{
+	padding-left:0;
+	padding-right:0;
+}
+.padding-col {
+    padding-top: 7%;
+}
+.container{
+	width:100%;
+}
+
+/*********SECTION FIRST CSS BEGIN********/
+.section-first{
+	background-color:#f5f5f5;
+	width:100%;
+}
+.landing-info-all {
+	padding-bottom: 4%;
+    padding-top: 4%;
+}
+.h4-font{
+    font-size: 0.9em;
+    letter-spacing: 0.1em;
+    padding-bottom: .5%;
+    text-transform: uppercase;
+}
+.h2-font{
+	font-size: 4.06em;
+    font-weight: 700;
+    letter-spacing: 0.07em;
+    padding-bottom: 1.4%;
+}
+.p-font{
+    color: #9b8034;
+    font-size: 1.2em;
+    letter-spacing: 0.1em;
+    line-height: 1.7em;
+    text-transform: uppercase;
+}
+
+.logo{
+	margin-top:82px;
+}
+.heading{
+	margin:30px auto;
+	color:#0c040f;
+}
+.header-text{
+	font-family:inherit;
+	font-size:0.875em;
+	font-weight:600;
+	letter-spacing:2px;
+	margin-top:32px;
+	text-transform:uppercase;
+	color:#0c040f;
+}
+
+/*******SECTION FIRST CSS END**********/
+
+/*********SECTION SECOND CSS BEGIN*********/
+
+
+/******** SECTION SECOND CSS END**********/
+
+/********HOVER EFFECT ON IMAGES CSS BEGIN************/
+
+
+
+
+
+
+ .hover-anchor{
+   display:block;
+   position:relative;
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -moz-transition: 0.4s;
+    -o-transition: 0.4s;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+	font-size:0;
+}
+.hover-anchor img{
+	width:100%;
+	height:100%;
+}
+.hovered-span {
+    background: none repeat scroll 0 0 #000;
+    display: block;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    width: 100%;
+	opacity:0;
+}
+.hover-anchor:hover{
+    display: block;
+    -moz-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    -o-transform: scale(1.05);
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05);
+    -moz-transition: 0.4s;
+    -o-transition: 0.4s;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+	cursor: url("../img/mi.png") 40 40, crosshair;
+}
+.hover-anchor:hover span{
+	opacity:0.6;
+    -moz-transition: 0.4s;
+    -o-transition: 0.4s;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+}
+.name {
+    font-size: 0.93em;
+    font-weight: 500;
+    letter-spacing: 0.2em;
+    padding-top: 20px;
+    text-transform: uppercase;
+}
+.head {
+    border-bottom: 1px solid rgba(74, 78, 97, 0.7);
+    margin: 0 15px;
+    padding: 10% 0 22px;
+	color:#000;
+}
+/********HOVER EFFECT ON IMAGES CSS END************/
+
+/*******FOOTER CSS BEGIN******************/
+.landing-footer{
+	background-color:#f5f5f5;
+	height:200px;
+	margin-top:100px;
+	width:100%;
+}
+.footer-multia{
+	padding:0 2%;
+	width:15%;	
+}
+.footer-text{
+	color:#4c4c4c;
+	font-size:0.875em;	
+	text-transform:uppercase;
+	padding-top: 3%;
+}
+.footer-text a
+ {
+	 color:#9b8034;
+ }
+.footer-img{
+	background:url('http://mievent.joomlastars.co.in/assets/img/multia-logo.png') no-repeat;
+	height:20px;
+	width:20px;
+	position:absolute;
+	margin:0 auto;
+	float:none;
+}
+/*******FOOTER CSS END******************/

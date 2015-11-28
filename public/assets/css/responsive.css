@@ -1,0 +1,60 @@
+@media only screen and (max-width: 1024px) {
+.landing-info-all {
+	padding-bottom: 6%;
+    padding-top: 6%;
+}
+.h2-font {
+   font-size: 3.8em;
+}
+
+}
+@media only screen and (max-width: 768px) {
+.p-font {
+    font-size: 1em;
+}
+.h2-font {
+   font-size: 3.2em;
+   padding-bottom: 2.4%;
+}
+.landing-info-all {
+   padding-bottom: 8%;
+   padding-top: 8%;
+}
+}
+@media only screen and (max-width: 568px) {
+.p-font {
+    font-size: .9em;
+}
+.h2-font {
+   font-size: 3em;
+}
+}
+@media only screen and (max-width: 414px) {
+.h2-font {
+   font-size: 2.5em;
+}
+.h4-font {
+      padding-bottom: 2.5%;
+} 
+.landing-info-all {
+   padding-bottom: 12%;
+   padding-top: 12%;
+} 
+}
+@media only screen and (min-width: 768px) and (max-width: 984px) {}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {}
+@media only screen and (max-width: 600px) {
+.center{
+	float:none;
+	margin:0 auto;
+}
+}
+@media only screen and (max-width: 568px){}
+
+@media only screen and (max-width: 480px){}
+
+
+@media only screen and (max-width: 385px){}
+
+@media only screen and (max-width: 320px){}
