@@ -78,7 +78,6 @@
 		<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 		<![endif]-->
 
-    <link href="{{asset('templates/mievent/assets/css/condition.css')}}" rel="stylesheet" type="text/css" />
 
     <!-- /css -->
 </head>
