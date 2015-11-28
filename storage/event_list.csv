@@ -1,5 +1,5 @@
 type,name,description,date,time
-type,Pronites,qwd,12e,
+type,Pronites,,12e,
 event,"Alfaaz: Bezubaan shabdo ki meethi Aavaj
 ","Alfaaz is the fest's only blockbuster Hindi dance and drama show. It strives to tell you an engaging story sprinkled with plenty of breathtaking dances. The unrivalled performance of the actors will transport you to another world as you laugh and cry along with them. The unbridled energy of the dancers will make you want to jump off your seats and shake a leg!
 ",,
@@ -9,23 +9,24 @@ event,Apurvai,"A Marathi dance and drama and the biggest main stage event of Aav
 ",,
 ,,,,
 ,,,,
-type,Competitions,weq,,
+type,Competitions,,,
 event,Fahrenheit,"If you thought medical students and ramps do not go together, then think again.  Setting ramps and hearts on fire, Fahrenheit is set to take the competition to a whole new level with better costumes and glamorous walks. So brace yourself, because it is going to get hot 
 ",,
 event,Decibel,"Words make you think through. Music makes you feel a feeling. A song makes you feel the thought. A band makes you live the feeling. Join this battle of bands, show your  college pride and be the .Next person to raise the DECIBEL.",,
 ,,,,
 ,,,,
-type,Informals,qwe,,
+type,Informals,,,
 event,PAINTBALL,"Paintball gives you a chance to experience real life war scenario. Hide behind the defense or tear across the battle field with the gun in your hand, the choice is yours to make. No other adventure sports will give you the adrenaline rush in a more combat form better than paintball. You could be a cop or the bad guy, the ultimate goal is to wipe out the enemy and establish victory. Put yourself to test and see where you stand..!!
 ",,
 ,,,,
 ,,,,
 ,,,,
-type,Excelsior,qwe,,
+type,Excelsior,,,
 event,Football,"A full ground 11 vs 11 football tournament is organized at a lush green venue at the Bombay Veterinary College with 32 teams participating in a knockout format.
 ",,
 ,,,,
 ,,,,
-type,Highlights,qwe,,
+type,Highlights,,,
 event,GMK,"Put on your thinking caps and running shoes, because this is no ordinary quest. A set of ultra-clever clues await you as the clock ticks away. Can you solve them all and be the ultimate champions of this one-of-a-kind race? Oh and that's not all, a scavenger hunt for the quirkiest items will leave you panting but still grinning with joy as you and your teammates try to get them all. Mumbai -  a city which is commonly referred to as THE CITY OF DREAMS, a city which is difficult  to explore entirely - such is the greatness of this city. With the GREAT MUMBAI KHOJ, we provide you an opportunity to know your city better and appreciate its vastness. So, put your knowledge of this crazy city to the test with an even crazier race. 'Not all who wander are lost', some are in the Great Mumbai Khoj. So get on board with GMK and start your expedition in search of a new MUMBAI..!! 
 ",,
+event,Test Event,This is a test Event,,
