@@ -27,6 +27,7 @@
             <h1 class="wow animated fadeInDown" data-wow-duration="1s" data-wow-delay="1s">AAVISHKAAR 2016</h1>
             <hr id="title_hr" />
             <p class="wow animated fadeInUp" data-wow-duration="1s" data-wow-delay="1s"> Seth GS Medical College. 17-20 Feb 2016</p>
+            <a class="learn-more-btn btn-effect wow animated fadeIn" data-wow-duration="0.5s" data-wow-delay="1.5s" data-scroll href="#intro">Explore</a>
         </div>
 
     </section>
