@@ -181,12 +181,6 @@ jQuery( document ).ready(function( $ ) {
 	
 	
 
-	/*** Overlay close*********/
-	$('.md-overlay').click(function(e){
-		$("#modal-10").removeClass("md-show");
-		$("#modal-11").removeClass("md-show");
-	});
-		
 	/**********Menu Close Logic***************/
 
 	$('.navbar-collapse.in').niceScroll({cursorcolor:"#c8bd9f"});

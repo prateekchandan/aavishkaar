@@ -1,6 +1,5 @@
 @media screen and (max-width:1600px){
 .d-sch {
-    background: url("http://mievent.joomlastars.co.in/templates/mievent/assets/css/img/dicn.png") no-repeat scroll right 30px top 20px rgba(0, 0, 0, 0);
     display: inline-block;
     float: left;
     font-size: 0.8em;
@@ -12,7 +11,6 @@
     background-size: 6%;
 }
 .fb {
-    background: url("http://mievent.joomlastars.co.in/templates/mievent/assets/css/img/fbicn.png") no-repeat scroll left 30px top 18px rgba(0, 0, 0, 0);
     border-left: 1px solid #c8c8c8;
     display: inline-block;
     float: left;
@@ -35,11 +33,9 @@
 }
 
 .d-sch {
-    background: url("http://mievent.joomlastars.co.in/templates/mievent/assets/css/img/dicn.png") no-repeat scroll right 30px top 28px rgba(0, 0, 0, 0);
    
 }
 .fb {
-    background: url("http://mievent.joomlastars.co.in/templates/mievent/assets/css/img/fbicn.png") no-repeat scroll left 30px top 27px rgba(0, 0, 0, 0);
    
 }
 
@@ -51,11 +47,9 @@ body{
 	font-size:12px;
 }
 .fb {
-    background: url("http://mievent.joomlastars.co.in/templates/mievent/assets/css/img/fbicn.png") no-repeat scroll left 30px top 13px / 6% auto rgba(0, 0, 0, 0);
 	padding: 10px 72px;
 }
 .d-sch {
-    background: url("http://mievent.joomlastars.co.in/templates/mievent/assets/css/img/dicn.png") no-repeat scroll right 30px top 13px / 6% auto rgba(0, 0, 0, 0);
 	padding: 10px 72px;
 }
 }
@@ -108,11 +102,9 @@ body {
 
 /** Schedule download and social icons **/
 .d-sch {
-    background: url("http://mievent.joomlastars.co.in/templates/mievent/assets/css/img/dicn.png") no-repeat scroll right 30px top 5px / 4% auto rgba(0, 0, 0, 0);
 
 }
 .fb {
-    background: url("http://mievent.joomlastars.co.in/templates/mievent/assets/css/img/fbicn.png") no-repeat scroll left 30px top 5px / 4% auto rgba(0, 0, 0, 0);
 }
 .nl-form{
 	font-size:2.1em;
@@ -175,7 +167,6 @@ display:none;
 
 /* Schedule social links*/
 .d-sch {
-    background: url("http://mievent.joomlastars.co.in/templates/mievent/assets/css/img/dicn.png") no-repeat scroll right 52% top 2px rgba(0, 0, 0, 0);
     border-bottom: 1px solid #d3d3d3;
     display: inline-block;
     font-size: 1em;
@@ -189,7 +180,6 @@ display:none;
 	text-align:center;
 }
 .fb {
-    background: url("http://mievent.joomlastars.co.in/templates/mievent/assets/css/img/fbicn.png") no-repeat scroll right 52% bottom 15px rgba(0, 0, 0, 0);
     border: medium none;
     display: inline-block;
     float: left;
