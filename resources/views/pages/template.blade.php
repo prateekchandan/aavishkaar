@@ -6,12 +6,24 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <base href="" />
-    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="keywords" content="aavishkaar ,  Seth GS Medical College , fest , college , medical fest" />
     <meta name="description" content="Aavishkaar, an innovation, is a path breaker and a pathfinder. This 4 day extravaganza brings forth fresh talent from every field - from dance, drama, debate to organising and painting." />
-    <meta name="generator" content="AAVISHKAAR 2016 - Seth GS Medical College  fest" />
-    <title>AAVISHKAAR 2016</title>
+    <meta name="generator" content="AAVISHKAAR 2016 - Seth GS Medical College Annual Fest" />
+    <meta name="author" content="Prateek Chandan">
+    <link rel="author" href="https://plus.google.com/+PrateekChandan">
+
+    <meta property="og:title" content="AAVISHKAAR 2016 - Seth GS Medical College Annual Fest"/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:image" content="{{asset('images/fb.png')}}"/>
+    <meta property="og:url" content="http://www.aavishkaarfest.com/"/>
+    <meta property="og:description" content="Aavishkaar, an innovation, is a path breaker and a pathfinder. This 4 day extravaganza brings forth fresh talent from every field - from dance, drama, debate to organising and painting."/>
+    <meta property="fb:admins" content="100000708391263"/>
+
+
+    <title>AAVISHKAAR 2016 - Seth GS Medical College Annual Fest</title>
+    
+
+
     <link rel="stylesheet" href="{{asset('media/mod_cmc/css/cmc.css')}}" type="text/css" />
     <style type="text/css">
         #scrollToTop {
