@@ -68,4 +68,9 @@ class WelcomeController extends Controller {
 		return view('pages.test');
 	}
 
+	public function pronites()
+	{
+		return view('pages.pronites');
+	}
+
 }

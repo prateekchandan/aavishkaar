@@ -107,17 +107,17 @@
                         </li>
                         <li class="itemid102"><a data-scroll href="{{route('home')}}" class="">About</a>
                         </li>
-                        <li class="itemid103"><a data-scroll href="#" class="">PRONITES</a>
+                        <li class="itemid103"><a data-scroll href="{{route('pronites')}}" class="">PRONITES</a>
                         </li>
-                        <li class="itemid104"><a data-scroll href="#" class="">Competitions</a>
+                        <li class="itemid104"><a data-scroll href="{{route('competitions')}}" class="">Competitions</a>
                         </li>
-                        <li class="itemid105"><a data-scroll href="#" class="">Informals</a>
+                        <li class="itemid105"><a data-scroll href="{{route('informals')}}" class="">Informals</a>
                         </li>
-                        <li class="itemid106"><a data-scroll href="#" class="">Excelsior</a>
+                        <li class="itemid106"><a data-scroll href="{{route('excelsior')}}" class="">Excelsior</a>
                         </li>
-                        <li class="itemid106"><a data-scroll href="#" class="">Highlights</a>
+                        <li class="itemid106"><a data-scroll href="{{route('highlights')}}" class="">Highlights</a>
                         </li>
-                        <li class="itemid108"><a data-scroll href="#" class="">Contact</a>
+                        <li class="itemid108"><a data-scroll href="{{route('contact')}}" class="">Contact</a>
                         </li>
                     </ul>
 
@@ -211,7 +211,7 @@
     <script type="text/javascript" src="{{asset('templates/mievent/assets/js/modernizr.gridgallery.js')}}"></script>
     <script type="text/javascript" src="{{asset('templates/mievent/assets/js/cbpGridGallery.js')}}"></script>
     <script type="text/javascript" src="{{asset('templates/mievent/assets/js/classie.js')}}"></script>
-    <script type="text/javascript" src="{{asset('templates/mievent/assets/js/modalEffects.js')}}"></script>
+    <!--script type="text/javascript" src="{{asset('templates/mievent/assets/js/modalEffects.js')}}"></script-->
    
     <script type="text/javascript" src="{{asset('templates/mievent/assets/js/bootstrap.min.js')}}"></script>
 

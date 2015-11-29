@@ -12,6 +12,26 @@
 */
 
 Route::get('/', array('as'=>'home','uses'=>'WelcomeController@index'));
+
+Route::get('/pronites/{event}', array('uses'=>'WelcomeController@pronites'));
+Route::get('/pronites', array('as'=>'pronites','uses'=>'WelcomeController@pronites'));
+
+
+Route::get('/competitions/{event}', array('uses'=>'WelcomeController@test1'));
+Route::get('/competitions', array('as'=>'competitions','uses'=>'WelcomeController@test1'));
+
+Route::get('/informals/{event}', array('uses'=>'WelcomeController@test1'));
+Route::get('/informals', array('as'=>'informals','uses'=>'WelcomeController@test1'));
+
+Route::get('/excelsior/{event}', array('uses'=>'WelcomeController@test1'));
+Route::get('/excelsior', array('as'=>'excelsior','uses'=>'WelcomeController@test1'));
+
+Route::get('/highlights/{event}', array('uses'=>'WelcomeController@test1'));
+Route::get('/highlights', array('as'=>'highlights','uses'=>'WelcomeController@test1'));
+
+Route::get('/contact', array('as'=>'contact','uses'=>'WelcomeController@test1'));
+
+
 Route::get('/test', 'WelcomeController@test1');
 
 Route::controllers([
