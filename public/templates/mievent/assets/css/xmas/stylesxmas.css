@@ -1039,8 +1039,7 @@ div.avatar {
 
 .swag h1 {
 	color: #fff;
-	font-family: 'Raleway';
-	font-size: 50px;
+	font-size:3em;
 }
 
 .swag h1 span {
@@ -1687,7 +1686,7 @@ ul.slides li {
 	top: 0px; 
 	left: 0px;
 	width: 980px;
-	height: 56px;
+	height: 100px;
 	overflow: hidden;
 	margin:3% auto 0%;
 }

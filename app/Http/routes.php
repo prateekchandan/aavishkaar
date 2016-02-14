@@ -29,7 +29,7 @@ Route::get('/excelsior', array('as'=>'excelsior','uses'=>'WelcomeController@test
 Route::get('/highlights/{event}', array('uses'=>'WelcomeController@test1'));
 Route::get('/highlights', array('as'=>'highlights','uses'=>'WelcomeController@test1'));
 
-Route::get('/contact', array('as'=>'contact','uses'=>'WelcomeController@test1'));
+Route::get('/contact', array('as'=>'contact','uses'=>'WelcomeController@contact'));
 
 
 Route::get('/test', 'WelcomeController@test1');

@@ -68,6 +68,25 @@ class WelcomeController extends Controller {
 		return view('pages.test');
 	}
 
+	public function contact()
+	{
+		$people = [
+			"ADITYA VADGAONKAR"=>["9960195663"],
+			"ABHI KOTHARI"=>["9930841847"],
+			"ABHINAV THALE"=>["9987474630"],
+			"AJINKYA CHAUDHARI"=>["9769155691"],
+			"ASHNIK CHAUHAN"=>["9867980069"],
+			"DIVYA SRINIVASAN"=>["8767885845"],
+			"HIBA NARVEL"=>["9820805738"],
+			"KINGSHUK GANGULY"=>["9987841345"],
+			"SHRADDHA PAREKH"=>["9870984654"],
+			"SHUBHANGI GUPTA"=>["9987476602"],
+			"SWASTIKA LAMTURE"=>["9595955665"],
+			"VAIBHAVI BHOIR"=>["9167632764"]];
+
+		return view('pages.contact',array('people'=>$people));
+	}
+
 	public function pronites()
 	{
 		return view('pages.pronites');

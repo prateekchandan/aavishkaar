@@ -205,18 +205,30 @@
     </section>
     <!--/SCHEDULE-->
 
-   
+     <!--REGISTER FORM-->   
+        <section id="swag" class="swag text-center">
+            <div class="container">
+                <div class="row">
+                   <div class="row">
+                    <div class="col-md-8 align-center wow animated fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s">
+                        <h1 class="arrow">Our Sponsors</h1><hr>
+                    </div>
+                    <!-- Jssor Slider Begin -->
+                    <div id="slider1_container" style="">
+                        <div class="inner_carousal" data-u="slides" style="height: 100px">
+                            <div><a href="http://www.licindia.in/"><img alt="LIC" src="assets/img/sponsor/lic.png" /></a></div>
+                        </div>
+                    </div>
+                    <!-- Jssor Slider End -->
+                 </div>
+                </div>
+                <br>
+            </div>
+        </section>
+        <!-- /REGISTER FORM -->
 
-   <div id="" class="ignite-cta text-center" style="background:#212739">
-        <div class="col-md-8 align-center  animated fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s">
-        </div>
-        <div id="slider1_container">
-            <div class="inner_carousal" data-u="slides">
-            	<div></div>
-        	</div>
-        </div>
-                <!-- Jssor Slider End -->
-    </div>
+
+
 @endsection
 
 @section('script')
