@@ -2122,3 +2122,9 @@ ul.legals li:last-child::after {
 .ui-checkbox {
     display: inline-block;
 }
+.exc{
+}
+.exc li{
+	margin-bottom: 0px !important;
+	font-weight: bold;
+}

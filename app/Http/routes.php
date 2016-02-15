@@ -23,8 +23,8 @@ Route::get('/competitions', array('as'=>'competitions','uses'=>'WelcomeControlle
 Route::get('/informals/{event}', array('uses'=>'WelcomeController@test1'));
 Route::get('/informals', array('as'=>'informals','uses'=>'WelcomeController@test1'));
 
-Route::get('/excelsior/{event}', array('uses'=>'WelcomeController@test1'));
-Route::get('/excelsior', array('as'=>'excelsior','uses'=>'WelcomeController@test1'));
+Route::get('/excelsior/{event}', array('uses'=>'WelcomeController@excelsior'));
+Route::get('/excelsior', array('as'=>'excelsior','uses'=>'WelcomeController@excelsior'));
 
 Route::get('/highlights/{event}', array('uses'=>'WelcomeController@test1'));
 Route::get('/highlights', array('as'=>'highlights','uses'=>'WelcomeController@test1'));

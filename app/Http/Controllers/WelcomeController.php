@@ -68,6 +68,11 @@ class WelcomeController extends Controller {
 		return view('pages.test');
 	}
 
+	public function excelsior()
+	{
+		return view('pages.excelsior');
+	}
+
 	public function contact()
 	{
 		$people = [
