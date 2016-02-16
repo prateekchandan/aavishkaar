@@ -17,8 +17,8 @@ Route::get('/pronites/{event}', array('uses'=>'WelcomeController@pronites'));
 Route::get('/pronites', array('as'=>'pronites','uses'=>'WelcomeController@pronites'));
 
 
-Route::get('/competitions/{event}', array('uses'=>'WelcomeController@test1'));
-Route::get('/competitions', array('as'=>'competitions','uses'=>'WelcomeController@test1'));
+Route::get('/competitions/{event}', array('uses'=>'WelcomeController@compi'));
+Route::get('/competitions', array('as'=>'competitions','uses'=>'WelcomeController@compi'));
 
 Route::get('/informals/{event}', array('uses'=>'WelcomeController@informals'));
 Route::get('/informals', array('as'=>'informals','uses'=>'WelcomeController@informals'));
@@ -26,8 +26,8 @@ Route::get('/informals', array('as'=>'informals','uses'=>'WelcomeController@info
 Route::get('/excelsior/{event}', array('uses'=>'WelcomeController@excelsior'));
 Route::get('/excelsior', array('as'=>'excelsior','uses'=>'WelcomeController@excelsior'));
 
-Route::get('/highlights/{event}', array('uses'=>'WelcomeController@test1'));
-Route::get('/highlights', array('as'=>'highlights','uses'=>'WelcomeController@test1'));
+//Route::get('/highlights/{event}', array('uses'=>'WelcomeController@test1'));
+//Route::get('/highlights', array('as'=>'highlights','uses'=>'WelcomeController@test1'));
 
 Route::get('/contact', array('as'=>'contact','uses'=>'WelcomeController@contact'));
 

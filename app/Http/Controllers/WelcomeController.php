@@ -78,6 +78,11 @@ class WelcomeController extends Controller {
 		return view('pages.informals');
 	}
 
+	public function compi()
+	{
+		return view('pages.compi');
+	}
+
 	public function contact()
 	{
 		$people = [
