@@ -50,7 +50,7 @@ class WelcomeController extends Controller {
 				}
 				$curtype = $row['name'];
 				$curdata = array('description'=>$row['description'],'events'=>array());
-			}else if($row['type']=="event"){
+			}else if(trim($row['type'])=="event"){
 				array_push($curdata['events'], $row);
 			}
 		}

@@ -180,7 +180,7 @@
                                         </div>
                                     </div>
                                     <div class="col-md-12 col-sm-12 col-xs-12">
-                                        <div class="content venue col-md-3 col-sm-12 col-xs-12"></div>
+                                        <div class="content venue col-md-3 col-sm-12 col-xs-12">{{$event['venue']}}</div>
                                         <div class="content details col-md-9 col-sm-12 col-xs-12">{{$event['description']}}</div>
                                     </div>
                                 </div>
@@ -200,7 +200,7 @@
 
     <!-- Event social links and download-->
     <section class="event-download-social-link section-padding">
-        <div class="col-lg-6 col-md-12 align-center"><a href="{{asset('media/brochure.pdf')}}" target="_blank" class="d-sch text-right">download brochure</a> <a href="https://www.facebook.com/AavishkaarFest-685977141494321/?fref=ts" target="_blank" class="fb ">connect via facebook</a>
+        <div class="col-lg-6 col-md-12 align-center"><a href="{{asset('media/schedule.jpg')}}" target="_blank" class="d-sch text-right">download schedule</a> <a href="https://www.facebook.com/AavishkaarFest-685977141494321/?fref=ts" target="_blank" class="fb ">connect via facebook</a>
         </div>
     </section>
     <!--/SCHEDULE-->
