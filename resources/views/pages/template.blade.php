@@ -127,8 +127,7 @@
                         </li>
                         <li class="itemid106"><a data-scroll href="{{route('excelsior')}}" class="">Excelsior</a>
                         </li>
-                        <li class="itemid106"><a data-scroll href="{{route('highlights')}}" class="">Highlights</a>
-                        </li>
+                       
                         <li class="itemid108"><a data-scroll href="{{route('contact')}}" class="">Contact</a>
                         </li>
                     </ul>

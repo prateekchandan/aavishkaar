@@ -204,7 +204,16 @@
         </div>
     </section>
     <!--/SCHEDULE-->
-
+    <style type="text/css">
+        #spons img,#spons div{
+            height: 80px !important;
+        }
+        #spons img{
+            margin-left: 20px;
+            max-width: 180px;
+            width: auto;
+        }
+    </style>
      <!--REGISTER FORM-->   
         <section id="swag" class="swag text-center">
             <div class="container">
@@ -215,8 +224,16 @@
                     </div>
                     <!-- Jssor Slider Begin -->
                     <div id="slider1_container" style="">
-                        <div class="inner_carousal" data-u="slides" style="height: 100px">
-                            <div><a href="http://www.licindia.in/"><img alt="LIC" src="assets/img/sponsor/lic.png" /></a></div>
+                        <div id="spons" class="inner_carousal" data-u="slides" style="height: 100px">
+                            <div><a href="http://www.licindia.in/"><img alt="LIC" src="{{asset('assets/img/sponsor/lic.png')}}" /></a></div>
+                            <div><a href="http://www.dbmci.com /"><img alt="Bhatia" src="{{asset('assets/img/sponsor/bhatia.png')}}" /></a></div>
+                            <div><a href="http://www.bankofmaharashtra.in/"><img alt="bank of maharashtra" src="{{asset('assets/img/sponsor/BOM_LOGO.png')}}" /></a></div>
+                            <div><a href="http://www.sbi.co.in/"><img alt="SBI" src="{{asset('assets/img/sponsor/sbi-logo.png')}}" /></a></div>
+                            <div><a href="http://www.alkemlabs.com"><img alt="Alkem" src="{{asset('assets/img/sponsor/alkem.jpg')}}" /></a></div>
+                            <div><a href="http://www.glenmarkpharma.com/"><img alt="glenmark" src="{{asset('assets/img/sponsor/glenmark.png')}}" /></a></div>
+                            <div><a href="http://www.futuregroup.in/"><img alt="futuregroup" src="{{asset('assets/img/sponsor/fg.png')}}" /></a></div>
+                            <div><a href="http://www.charaghdin.com/"><img alt="charagh din" src="{{asset('assets/img/sponsor/charagh.jpg')}}" /></a></div>
+                            <div><a href="http://www.allen.ac.in/"><img alt="allen" src="{{asset('assets/img/sponsor/Allen.png')}}" /></a></div>
                         </div>
                     </div>
                     <!-- Jssor Slider End -->
@@ -225,7 +242,35 @@
                 <br>
             </div>
         </section>
-        <!-- /REGISTER FORM -->
+
+
+        <div class="md-modal md-effect-9" id="modal-1">
+                <div class="md-content">
+                    <div class="folio">
+                        <div class="avatar1"></div>
+                        <div class="sp-name"><strong>Mark Anderson</strong><br/>Director, ABC</div>
+                        <div class="sp-dsc">
+                        This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor.
+                            <blockquote>
+                            <p>Here is a long quotation here is a long quotation proin gravida nibh vel velit auctor aliquet aenean sollicitudin.</p>
+                            </blockquote>
+                        This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
+                        </div>
+                        <div class="sp-social">
+                            <ul>
+                                <li><a href="#" class="social-btn"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="#" class="social-btn"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="#" class="social-btn"><i class="fa fa-dribbble"></i></a></li>
+                            </ul>
+                        </div>
+                        <button class="md-close"><i class="fa fa-times"></i></button>
+                    </div>
+                </div>
+            </div> 
+            <div class="md-overlay"></div>
+            <button class="md-trigger expand" data-modal="modal-1" id="trigger"></button>
+
+
 
 
 
@@ -255,7 +300,7 @@
 	
 	wow.init();
 		
-		
+	jQuery('#trigger').click();
 
 
     </script>
