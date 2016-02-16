@@ -151,7 +151,7 @@
         <div class="container wow animated fadeInLeft bottom-spacing">
             <div class="row">
                 <div class="col-md-8 align-center wow animated fadeInLeft">
-                    <h1 class="arrow">Events</h1>
+                    <h1 class="arrow">Schedule</h1>
                     <hr />
                 </div>
             </div>
@@ -175,7 +175,7 @@
                                 @foreach($row['events'] as $key1 => $event)
                                 <div class="item clearfix">
                                     <div class="heading clearfix">
-                                        <div class="time col-md-3 col-sm-12 col-xs-12"></div>
+                                        <div class="time col-md-3 col-sm-12 col-xs-12">{{$event['time']}}</div>
                                         <div class="e-title col-md-9 col-sm-12 col-xs-12">{{$event['name']}}
                                         </div>
                                     </div>
