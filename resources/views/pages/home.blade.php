@@ -226,7 +226,7 @@
                     <div id="slider1_container" style="">
                         <div id="spons" class="inner_carousal" data-u="slides" style="height: 100px">
                             <div><a href="http://www.licindia.in/"><img alt="LIC" src="{{asset('assets/img/sponsor/lic.png')}}" /></a></div>
-                            <div><a href="http://www.dbmci.com /"><img alt="Bhatia" src="{{asset('assets/img/sponsor/bhatia.png')}}" /></a></div>
+                            <div><a href="http://www.dbmci.com/"><img alt="Bhatia" src="{{asset('assets/img/sponsor/bhatia.png')}}" /></a></div>
                             <div><a href="http://www.bankofmaharashtra.in/"><img alt="bank of maharashtra" src="{{asset('assets/img/sponsor/BOM_LOGO.png')}}" /></a></div>
                             <div><a href="http://www.sbi.co.in/"><img alt="SBI" src="{{asset('assets/img/sponsor/sbi-logo.png')}}" /></a></div>
                             <div><a href="http://www.alkemlabs.com"><img alt="Alkem" src="{{asset('assets/img/sponsor/alkem.jpg')}}" /></a></div>
