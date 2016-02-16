@@ -20,8 +20,8 @@ Route::get('/pronites', array('as'=>'pronites','uses'=>'WelcomeController@pronit
 Route::get('/competitions/{event}', array('uses'=>'WelcomeController@test1'));
 Route::get('/competitions', array('as'=>'competitions','uses'=>'WelcomeController@test1'));
 
-Route::get('/informals/{event}', array('uses'=>'WelcomeController@test1'));
-Route::get('/informals', array('as'=>'informals','uses'=>'WelcomeController@test1'));
+Route::get('/informals/{event}', array('uses'=>'WelcomeController@informals'));
+Route::get('/informals', array('as'=>'informals','uses'=>'WelcomeController@informals'));
 
 Route::get('/excelsior/{event}', array('uses'=>'WelcomeController@excelsior'));
 Route::get('/excelsior', array('as'=>'excelsior','uses'=>'WelcomeController@excelsior'));

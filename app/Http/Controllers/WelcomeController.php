@@ -73,6 +73,11 @@ class WelcomeController extends Controller {
 		return view('pages.excelsior');
 	}
 
+	public function informals()
+	{
+		return view('pages.informals');
+	}
+
 	public function contact()
 	{
 		$people = [
