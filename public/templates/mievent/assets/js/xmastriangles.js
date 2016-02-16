@@ -133,6 +133,24 @@ jQuery( document ).ready(function( $ ) {
 
 	});
 
+	$('#portfolioSlider1').flexslider({
+		animation: "slide",
+		directionNav: false,
+		controlNav: true,
+		touch: false,
+		pauseOnHover: true,
+
+	});
+
+	$('#portfolioSlider2').flexslider({
+		animation: "slide",
+		directionNav: false,
+		controlNav: true,
+		touch: false,
+		pauseOnHover: true,
+
+	});
+
 	$('#servicesSlider').flexslider({
 		animation: "slide",
 		directionNav: false,
