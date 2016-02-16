@@ -243,33 +243,23 @@
             </div>
         </section>
 
-
-        <div class="md-modal md-effect-9" id="modal-1">
-                <div class="md-content">
-                    <div class="folio">
-                        <div class="avatar1"></div>
-                        <div class="sp-name"><strong>Mark Anderson</strong><br/>Director, ABC</div>
-                        <div class="sp-dsc">
-                        This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor.
-                            <blockquote>
-                            <p>Here is a long quotation here is a long quotation proin gravida nibh vel velit auctor aliquet aenean sollicitudin.</p>
-                            </blockquote>
-                        This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
-                        </div>
-                        <div class="sp-social">
-                            <ul>
-                                <li><a href="#" class="social-btn"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#" class="social-btn"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#" class="social-btn"><i class="fa fa-dribbble"></i></a></li>
-                            </ul>
-                        </div>
-                        <button class="md-close"><i class="fa fa-times"></i></button>
-                    </div>
-                </div>
-            </div> 
-            <div class="md-overlay"></div>
-            <button class="md-trigger expand" data-modal="modal-1" id="trigger"></button>
-
+        <!-- Modal -->
+<div class="modal fade " id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel"></h4>
+      </div>
+      <div class="modal-body">
+        <img src="{{asset('images/tvf.jpg')}}" style="width:100%">
+      </div>
+     
+    </div>
+  </div>
+</div>
+            
+           
 
 
 
@@ -299,9 +289,9 @@
 	);
 	
 	wow.init();
-		
-	jQuery('#trigger').click();
-
+	
+    setTimeout(function(){jQuery('#myModal').modal('show') }, 2000);
+	   
 
     </script>
 
