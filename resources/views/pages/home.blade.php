@@ -290,7 +290,7 @@
 	
 	wow.init();
 	
-    setTimeout(function(){jQuery('#myModal').modal('show') }, 2000);
+    
 	   
 
     </script>

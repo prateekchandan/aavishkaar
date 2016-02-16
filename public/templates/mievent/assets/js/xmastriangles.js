@@ -28,6 +28,7 @@ jQuery(window).load(function() {
 	jQuery(".status").fadeOut();
 	jQuery(".preloader").delay(100).fadeOut("slow");
 	jQuery("body").css('overflow-y','visible');
+	setTimeout(function(){jQuery('#myModal').modal('show') }, 2000);
 });
 
 /*************************************/
