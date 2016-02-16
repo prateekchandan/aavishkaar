@@ -235,6 +235,170 @@
 
     </section>
 
+    <section class="intro text-center section-padding" id="team">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 wow animated fadeInUp align-center" data-wow-duration="1s" data-wow-delay="1s">
+                    <h1 class="arrow">LITERATI</h1>
+                    <hr />
+                    <p>Head: Renuka Ashtekar : 9769843792</p>
+                    <p>Co-Head : Devanshi Shah : 9870008729<br>
+                    Athulya Pareri 8424883914<br>
+                    Trusha Raje 8452940012</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="speakers-wrap">
+                    <div id="portfolioSlider2">
+                        <ul class="slides">
+                            <li>
+                                <div class="col-md-4 col-sm-4 wow animated fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s">
+                                   
+                                    <h1 style="color:#333">GS MUN</h1>
+                                    <p>MODEL UNITED NATIONS is an educational simulation and academic competition in which participants learn about diplomacy, international relations, and the <strong>United Nations</strong>. Our motive is to provide you with an organized platform where your voice on international matters will be heard and judged. Bring out the orator in you and flaunt those debating skills.</p><br>
+                                    <ul class="exc">
+                                        <li><i class="fa fa-phone"></i> Kingshuk Ganguly : 9987841345</li>
+                                    </ul>
+                                </div>
+
+                                <div class="col-md-4 col-sm-4 wow animated fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s">
+                                   
+                                    <h1 style="color:#333">B.o.M.B- Board of Movie Buffs</h1>
+                                    <p>For all those who love movies, and are couch potatoes on weekends, this event is just for you. If life is a video,and you are the lead role, come play the Hollywood Bollywood mashup quiz.</p><br>
+                                    <ul class="exc">
+                                        <li>General Rules:- § Number of team members in each team- 4  Every team has to register themselves under a unique name for their team that resonates Aavishkaar 2016's theme, Hollywood.</li>
+                                        <li>Registration fee per team: Rs. 100.</li>
+                                        <li>Rounds:
+                                        <br>1. Elimination
+                                        <br>2. Finals
+                                        <br> - Round I : 'Kitne Aadmi The?‘
+                                        <br> - Round II Visual Round- 'Aankhon hi Aankhon Mein‘
+                                        <br> - Round III : 'Dialoguebaazi‘
+                                        <br> - Round IV : Dumb Charades
+                                        </li>
+                                    </ul>
+                                </div>
+
+                                <div class="col-md-4 col-sm-4 wow animated fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s">
+                                   
+                                    <h1 style="color:#333">The Superhero Squadron'</h1>
+                                    <p>Marvel and DC Comics fans, rejoice! Here's the chance to shine and letyour inner geek be satisfied with this am azing superhero quiz.</p><br>
+                                    <ul class="exc">
+                                        <li>Number of team members in each team- 4</li>
+                                        <li>Every team has to register themselves under a unique name for their team that resonates with the Marvel/DC universe.</li>
+                                        <li>Registration fee per team: Rs.100.</li>
+                                        <li>Elimination &amp; Finals</li>
+                                        <li>Prize money for winning team - Certificates for the finalists.</li>
+                                    </ul>
+                                </div>
+                              
+                            </li>
+
+                            <li>
+                                <div class="col-md-4 col-sm-4 wow animated fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s">
+                                   
+                                    <h1 style="color:#333">G.S. Annual Spelling Bee</h1>
+                                    <p>Come on, when was the last time you actually took part in a spelling bee? <br>Relive the nostalgia and play the modern version of the Spelling Bee.</p><br>
+                                    <ul class="exc">
+                                        <li>Registration as individual entries.</li>
+                                        <li>Limited entries</li>
+                                        <li>Registration fee: Rs. 30</li>
+                                        <li>Each participant will be allotted aparticipant number according to which they will be serially tested with one word at a time.</li>
+                                        <li>A wrong answer will lead to spontaneous elimination from the event</li>
+                                        <li>The participants will be allowed to ask the meaning, etymology and usage in a sentence to help them spell a word.</li>
+                                        <li>Prize money for the winner. Certificate for the runner-up.</li>
+                                    </ul>
+                                </div>
+
+                                <div class="col-md-4 col-sm-4 wow animated fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s">
+                                   
+                                    <h1 style="color:#333">Filthophilia</h1>
+                                    <p>Our very famous renditions of popular stories, retold in a new way. Let loose your "punny" imaginations, friends, and entertain us. Warning- Guaranteed to ruin your childhood memories forever. Come, get filthy.</p><br>
+                                    <ul class="exc">
+                                        <li>Number of team members in each team- 4</li>
+                                        <li>Each team must come up with a pun-tastic name for the team while registering.</li>
+                                        <li>Registration fee- Rs. 100 Rounds.</li>
+                                        <li>Round I : Each team needs to present a filthy story.Teams will be given the classic movie from your childhood that they will have to turn filthy. Teams selected will go for the second round.s</li>
+                                        <li>Round II You have to advertise any product and it has to be done in a way invoking double meanings. There shouldn't be any literal usage of filthy words. It has to be a subtle double meaning.</li>
+                                        <li>Cash prize for the winning team.</li>
+                                    </ul>
+                                </div>
+                              
+
+                                <div class="col-md-4 col-sm-4 wow animated fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s">
+                                   
+                                    <h1 style="color:#333">J.A.M.</h1>
+                                    <p>Shed your inhibitions and step on the stage. Speak your mind out for a minute and win exclusive prices.</p><br>
+                                    <ul class="exc">
+                                        <li>Preregistration for the event necessary</li>
+                                        <li>All the interested students are requested to drop in a message to the Literati event heads.</li>
+                                        <li>Prize Money for the winner.</li>
+                                    </ul>
+                                </div>
+
+
+                            </li>
+
+
+                             <li>
+                                <div class="col-md-4 col-sm-4 wow animated fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s">
+                                   
+                                    <h1 style="color:#333">Pictionary</h1>
+                                    <p>Who doesn't love the game of pictionary? Well, come here and win prizes for it!</p><br>
+                                    <ul class="exc">
+                                        <li>Number of team members per team- 4</li>
+                                        <li>Limited entries</li>
+                                        <li>Registration fee: Rs. 100</li>
+                                        <li>Each team will be alloted a number and according to their order each team willselect a picturist who will pick a chit and draw the written word/phrase/action...etc.</li>
+                                        <li>Theme is Hollywood.</li>
+                                        <li>Any team that fails to guess within 1.5 minutes will be eliminated.</li>
+                                        <li>Moving this way we will narrow down the final 2 teams who will be given the chance to choose the word/phrase for the opposite team.</li>
+                                        <li>The same picturist cannot go twice in a row for each team.</li>
+                                        <li>Cash prize for winning team.</li>
+                                    </ul>
+                                </div>
+
+                                <div class="col-md-4 col-sm-4 wow animated fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s">
+                                   
+                                    <h1 style="color:#333">5-Second Rule!</h1>
+                                    <p>Tick tock, tick tock! Answer questions in 5 seconds and move onto the challenge of entertaining us with your comedy skills. Take part just for the amazing experience!</p><br>
+                                    <ul class="exc">
+                                        <li>Individual entries § Registration fee- Rs. 30</li>
+                                        <li>Individual entries § Registration fee- Rs. 30</li>
+                                        <li>Limited entries Rounds</li>
+                                        <li>Round I Each participant will compete against another in the game of 5-second rule. The moderator will ask questions and the participant must answer within five seconds. Each set of 2 competitors will get 5 questions, and the one who wins 3 out of 5 based on histiming, will qualify. Example of questions- Name 3 white flowers, Name 3 things you can cover in chocolate...</li>
+                                        <li>Round II The winners from the first round will be paired up and will have to perform a situational comedy piece picked out from chits in a bowl.</li>
+                                        <li>The winners of the same will be decides based on the audience votes and judges score. Cash prize for the winners.</li>
+                                    </ul>
+                                </div>
+                              
+
+                                <div class="col-md-4 col-sm-4 wow animated fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s">
+                                   
+                                    <h1 style="color:#333">FILM FESTIVAL</h1>
+                                    <h2>Picture abhi baki hai mere dost…</h2>
+                                    <h2>WHO SAYS FESTS ENDS AT 10 ??</h2>
+                                    <p>4 movies will be shown on each night of Aavishkaar ‘15. There will be a good</p><br>
+                                    <ul class="exc">
+                                        <li>VENUE-JMLT</li>
+                                        <li>TIMINGS- 10 pm Onwards</li>
+                                        <li>Eatables will be available during the show.</li>
+                                    </ul>
+                                </div>
+
+
+                            </li>
+
+                            
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!--Row Ends Here-->
+        </div>
+
+    </section>
+
    
 @endsection
 @section('script')
